@@ -9,11 +9,7 @@ A simple Unix-style command-line interpreter written in C. This project serves a
   - [Prerequisites](#prerequisites)
   - [Compilation](#compilation)
 - [Usage](#usage)
-- [Built-in Commands](#built-in-commands)
-- [Code Structure](#code-structure)
-- [Author](#author)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
+
 
 ## Features
 
